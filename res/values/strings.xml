@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fihirana</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="preferences">Préférences</string>
+    <string name="lang">Languages</string>
+    <string name="connectivity">Connectivité</string>
+    <string name="always_connected">Je suis toujours connecté à Internet</string>
+    <string name="save_settings">Enregistrer</string>
+    <string name="french">Français</string>
+    <string name="english">English</string>
+    <string name="exit">Quitter</string>
+    <string name="title_activity_home">Home</string>
+    <string name="introduction">Bienvenue dans l\'application Fihirana pour Android. Cliquez sur un des boutons suivants.</string>
+    <string name="cantiques">Cantiques</string>
+    <string name="prieres">Prières</string>
+    <string name="plus_dinfo">Plus d\'informations</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>

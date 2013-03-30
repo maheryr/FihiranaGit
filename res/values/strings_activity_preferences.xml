@@ -1,0 +1,10 @@
+<resources>
+    <string-array name="pref_sync_lang">
+        <item>Français</item>
+        <item>Anglais</item>
+    </string-array>
+    <string-array name="pref_lang_values">
+        <item>fr</item>
+        <item>en</item>
+    </string-array>
+</resources>
